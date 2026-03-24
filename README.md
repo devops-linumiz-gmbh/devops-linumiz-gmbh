@@ -1,12 +1,12 @@
-# Linumiz DevOps
+# Linumiz GmbH DevOps
 
-This repository represents the DevOps and cloud foundation work behind **Linumiz**.
+This repository represents the DevOps and cloud foundation work behind **Linumiz GmbH**.
 
-It is maintained for the engineer responsible for building, operating, and improving the infrastructure that supports Linumiz services, internal platforms, deployment workflows, and operational reliability.
+It is maintained for the engineer responsible for building, operating, and improving the infrastructure that supports Linumiz GmbH services, internal platforms, deployment workflows, and operational reliability.
 
 ## Role
 
-The DevOps engineer for Linumiz is responsible for designing and maintaining the technical foundation that allows the company to build and scale securely.
+The DevOps engineer for Linumiz GmbH is responsible for designing and maintaining the technical foundation that allows the company to build and scale securely.
 
 This includes:
 
@@ -20,7 +20,7 @@ This includes:
 
 ## Mission
 
-The objective of this work is to give Linumiz a stable, scalable, and maintainable cloud platform.
+The objective of this work is to give Linumiz GmbH a stable, scalable, and maintainable cloud platform.
 
 The DevOps foundation should help the company:
 
@@ -55,6 +55,6 @@ This repository can serve as the main workspace for:
 
 ## Long-Term Goal
 
-This work is not only about deployment. It is about creating the cloud and operational backbone of Linumiz.
+This work is not only about deployment. It is about creating the cloud and operational backbone of Linumiz GmbH.
 
 The DevOps role here is to establish a foundation that enables developers to move quickly, keeps services reliable, and gives the company a clear path to scale its systems over time.
